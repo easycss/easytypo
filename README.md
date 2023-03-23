@@ -6,4 +6,4 @@ An easy typographic styling system for your web projects
 
 
 
-![EasyTypo](https://github.com/easycss/easytypo/raw/master/easytypo.png)
+![EasyTypo](https://github.com/easycss/easytypo/raw/main/easytypo.png)
