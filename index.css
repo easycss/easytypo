@@ -1,0 +1,42 @@
+html{
+  font-size: 10px;
+}
+body{
+  font-size: 100%;
+  font-family: sans-serif;
+  color: #333;
+} 
+/* TYPOGRAPHY */
+a{
+  color: #067df7;
+  text-decoration: none;
+} 
+h1,h2,h3,h4,h5,h6,p,a{
+  font-size: 2rem;
+  line-height: 1.4;
+}
+/* CLASSES */
+.bold{
+  font-weight: bold;
+}
+/* POSITIONING */
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.justify {
+  text-align: justify;
+}
+.highlight{
+  background-color: #ffff00;
+  color: #333;
+  padding: 3px;
+  display: inline-block;
+}
